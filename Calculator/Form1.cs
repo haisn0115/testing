@@ -144,5 +144,17 @@ namespace Calculator
             a = a - 1;
             textBox1.Text = a.ToString();
         }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+
+
+
+        }
     }
 }
