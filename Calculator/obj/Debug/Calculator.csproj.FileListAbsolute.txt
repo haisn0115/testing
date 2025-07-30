@@ -1,0 +1,30 @@
+D:\app\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\app\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\app\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\app\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\app\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\app\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\app\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\app\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\app\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\app\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.exe
+D:\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Software Programming\app\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Software Programming\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Software Programming\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Semester_1\software programming\Software Programming\app\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Semester_1\software programming\Software Programming\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Semester_1\software programming\Software Programming\app\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\haisan\Downloads\Telegram Desktop\Lab sheeet 3 Calculator\Lab sheeet 3 Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\haisan\OneDrive\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\haisan\OneDrive\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\haisan\OneDrive\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
